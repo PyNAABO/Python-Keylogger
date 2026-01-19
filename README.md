@@ -15,4 +15,9 @@ As the Raw Data is not easily Understable... 'KLcleaner.py' cleans it.
 # Step 5
 The Cleaned Data will be Printed Out on the Screen.
 
+📢 Disclaimer
+    Do not use this code on any computer or device without explicit permission.
+    Unauthorized use of keyloggers is a violation of privacy laws in most jurisdictions.
+    The author of this project are not responsible for any misuse.
+
 # Enjoy Learning...Python.
