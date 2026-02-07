@@ -1,5 +1,5 @@
 # Basic-Python-Keylogger
-This is an Advanced Python Keylogger.
+This is an Basic Python Keylogger.
 
 ## Steps To Use:-
 ### Step 1
